@@ -5,7 +5,7 @@ An NLP-powered review analysis platform that combines semantic search, aspect-ba
 ---
 
 ## Live Demo
-https://amazon-aspect-based-opinion-search-retrieval-rxj9uvoepmwscqnel.streamlit.app/
+
 
 ## Features
 
