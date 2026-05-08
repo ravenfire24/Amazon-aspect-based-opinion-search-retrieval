@@ -121,4 +121,4 @@ camera performance
 - Explainable NLP outputs with confidence scoring
 
 ---
-![alt text]()
+![alt text](https://github.com/ravenfire24/Amazon-aspect-based-opinion-search-retrieval/blob/main/page.JPG)
