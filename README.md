@@ -1,4 +1,4 @@
-# Semantic Aspect-Based Review Intelligence System
+# Amazon Semantic Aspect-Based Review Intelligence System
 
 An NLP-powered review analysis platform that combines semantic search, aspect-based sentiment analysis (ABSA), and explainable AI for large-scale product review retrieval.
 
