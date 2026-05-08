@@ -1,0 +1,16 @@
+pandas
+numpy
+nltk
+scikit-learn
+streamlit
+sentence-transformers
+transformers
+datasets
+accelerate
+torch
+spacy
+faiss-cpu
+plotly
+openpyxl
+joblib
+reportlab
