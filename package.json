@@ -1,0 +1,28 @@
+{
+  "name": "amazon-review-intelligence",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "db:env": "python scripts/create_local_env.py",
+    "db:migrate": "node scripts/migrate.mjs",
+    "db:clear": "python scripts/clear_database.py",
+    "db:import": "python scripts/import_reviews.py",
+    "db:extract-aspects": "python scripts/extract_aspects.py"
+  },
+  "dependencies": {
+    "mysql2": "^3.11.5",
+    "next": "^16.3.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "typescript": "^5.7.3"
+  }
+}
